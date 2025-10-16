@@ -187,16 +187,25 @@ ansible-playbook -i hosts.ini playbook.yml
  <p align="center"> <img src="img/terraform output.png" alt="terraform output" width="800"/> </p>
  
 * Ansible playbook run (`ok=... changed=...`)
-  <p align="center"> <img src="img/ansible playbook apply.jpg" alt="ansible output" width="800"/> </p>
+  <p align="center"> <img src="img/ansible output.png" alt="ansible output" width="800"/> </p>
   
 * Browser view of `form.html`
- <p align="center"> <img src="img/forms.html page.jpg" alt="browser forms.html" width="800"/> </p>
+ <p align="center"> <img src="img/" alt="browser forms.html" width="800"/> </p>
  
 * Submission success message from `submit.php`
-  <p align="center"> <img src="img/submit.php page.jpg" alt="browser submit.php" width="800"/> </p>
+  <p align="center"> <img src="img/submit page.png" alt="browser submit.php" width="800"/> </p>
   
 * RDS table query result
-  <p align="center"> <img src="img/database table entry.jpg" alt="RDS table" width="800"/> </p>
+  <p align="center"> <img src="img/mysql output.png" alt="RDS table" width="800"/> </p>
+
+  * ansible inventory file `host.ini`
+  <p align="center"> <img src="img/hosts.ini.png" alt="browser submit.php" width="800"/> </p>
+
+ * Instances launch in aws console
+  <p align="center"> <img src="img/instance launch.png" alt="browser submit.php" width="800"/> </p>
+
+   * variable file `var.yml`
+  <p align="center"> <img src="img/vars.yml.png" alt="browser submit.php" width="800"/> </p>
 
 ---
 
