@@ -184,7 +184,7 @@ ansible-playbook -i hosts.ini playbook.yml
 ## 📷 Screenshots
 
 * `terraform apply` output
- <p align="center"> <img src="img/terraform output.jpg" alt="terraform output" width="800"/> </p>
+ <p align="center"> <img src="img/terraform output.png" alt="terraform output" width="800"/> </p>
  
 * Ansible playbook run (`ok=... changed=...`)
   <p align="center"> <img src="img/ansible playbook apply.jpg" alt="ansible output" width="800"/> </p>
