@@ -84,8 +84,8 @@ The architecture is divided into three tiers:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/HeeteshKamthe/3-Tier-Infrastructure-Deployment-Using-Terraform-Modules.git
-cd 3-Tier-Infrastructure-Deployment-Using-Terraform-Modules
+git clone https://github.com/dhananjay-kamthe/3-tier-architecture-terraform-modules
+cd 3-tier-architecture-terraform-modules
 ```
 
 ### 2. Provision Infrastructure with Terraform
@@ -190,7 +190,7 @@ ansible-playbook -i hosts.ini playbook.yml
   <p align="center"> <img src="img/ansible output.png" alt="ansible output" width="800"/> </p>
   
 * Browser view of `form.html`
- <p align="center"> <img src="img/" alt="browser forms.html" width="800"/> </p>
+ <p align="center"> <img src="img/orms.html page.jpg" alt="browser forms.html" width="800"/> </p>
  
 * Submission success message from `submit.php`
   <p align="center"> <img src="img/submit page.png" alt="browser submit.php" width="800"/> </p>
